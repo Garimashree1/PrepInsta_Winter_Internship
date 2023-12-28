@@ -1,0 +1,39 @@
+Week 3 Project 1: DATA CLEANING USING PANDA AND NUMPY
+PROJECT LINK: https://colab.research.google.com/drive/17l-MIgh9odkWdv2Hveg36BVZXROwWRF8?usp=sharing
+Week 3 Project 2: DATA CLEANING (chipotle.tsv)
+PROJECT LINK: https://colab.research.google.com/drive/1ve1g_Nh66DLGrhPUpl1CMVI-PtOK0OiJ?usp=sharing
+
+## Data Analysis Learnings
+
+1. **Exploring the Dataset:**
+   - Understand the dataset's structure, column names, and contents.
+   - Address missing values, outliers, and inconsistencies.
+
+2. **Setting Up Libraries:**
+   - Configure Python with Pandas and Numpy for data manipulation.
+   - Utilize platforms like Jupyter Notebook or Google Colab.
+   - Consider additional libraries like Matplotlib, Seaborn, and Scikit-learn.
+
+3. **Cleaning the Data:**
+   - Handle missing values through imputation or removal.
+   - Manage duplicate records using `.drop_duplicates()`.
+   - Implement checks for consistency and error rectification.
+
+4. **Transforming the Data:**
+   - Use Pandas and Numpy to reshape the dataset.
+   - Explore feature engineering for new variables and data normalization.
+
+5. **Addressing Outliers:**
+   - Identify and handle outliers using visualizations.
+   - Choose an approach (removal or transformation) based on impact.
+
+6. **Validating the Data:**
+   - Conduct statistical tests and visual assessments.
+   - Cross-verify key variables with external sources for alignment.
+
+7. **Documentation:**
+   - Document each step with clear code comments in Jupyter Notebook.
+   - Articulate the reasoning behind data manipulations.
+   - Include visualizations and summary statistics.
+
+Feel free to check out my projects mentioned above for practical implementations!
