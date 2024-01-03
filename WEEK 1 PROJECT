@@ -1,0 +1,26 @@
+Week 1 Project: The Bike Buyers Dashboard Project is aimed at creating a functional dashboard in Google Sheets to analyze and visualize data related to bike buyers. The project involves data acquisition, Google Sheets set-up, data exploration, dashboard design, data analysis, and visualization.
+Project Link for the Dataset and Dashboard: https://docs.google.com/spreadsheets/d/1j1Sf3A4LypTEiLXNanay2luzUW1gziX_jSCrCECtIuY/edit?usp=sharing
+
+## Data Analysis Learning
+
+1. **Data Acquisition**
+   - Downloaded the provided dataset from the given Dataset Link.
+   - Ensure the dataset contains relevant information such as customer demographics, purchase history, and product preferences.
+2. **Google Sheets set-up**
+   - Open a new Google Sheets document and import the dataset into a new sheet.
+   - Utilize basic functionalities of Google Sheets, including data sorting, filtering, and basic formulas.
+3. **Data Exploaration**
+    - Explored the dataset to understand its structure and contents.
+    - Identified key variables to provide insights into bike buyers’ behavior and preferences.
+4. **Dashboard Design**
+   - Planned the layout of the dashboard, deciding which key metrics and visualizations to include.
+   - Created separate sections for demographics, purchasing trends, and any other relevant categories.
+5. **Data Analysis and Visualization**
+    - Utilized Google Sheets features to perform data analysis.
+    - Created pivot tables, charts, and graphs to visualize key metrics such as customer age distribution, popular bike models, and purchasing patterns.
+6. **Interactive Elements**
+    - Enhanced the dashboard with interactive elements like dropdown menus or filters.
+    - Ensured that the dashboard was user-friendly and provided a seamless experience.
+7. **Insights and Recommendations**
+    - Drew insights from the analysis.
+    - Made informed recommendations, such as identifying bikes popular among certain age groups or demographics.
